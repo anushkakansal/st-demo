@@ -10,4 +10,3 @@ st.title("SUM: ")
 st.write(x)
 st.title("DIFFERENCE: ")
 st.write(y)
-  
